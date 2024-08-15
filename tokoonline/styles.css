@@ -1,0 +1,38 @@
+/* style.css */
+
+body {
+    font-family: Arial; 
+  }
+  
+  header {
+    background-color: #3498db;
+    color: white;
+    padding: 20px;
+  }
+  
+  nav li {
+    display: inline;
+    margin-right: 20px; 
+  }
+  
+  #produk {
+    padding: 20px;
+  }
+  
+  .item {
+    display: inline-block;
+    width: 30%;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .item img {
+    width: 100%;
+  }
+  
+  button {
+    border: none;
+    background-color: #3498db;
+    color: white;
+    padding: 10px 20px;
+  }
